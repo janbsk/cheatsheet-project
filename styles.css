@@ -1,0 +1,44 @@
+body {
+    margin: 0 auto;
+    font-family: Georgia;
+    background-color: #F5F5F5;
+}
+
+header {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    color: #3D7C98;
+}
+
+table {
+    margin: auto;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: #3D7C98;
+    font-size: 1.1em;
+}
+
+.selector {
+    padding-right: 30px;
+    font-family: monospace;
+    font-size: 1.1em;
+    background-color: #73B0CD;
+    font-weight: bold;
+}
+
+td {
+    padding: 12px;
+    border: 1px solid black;
+    background-color: #F5F5F5;
+}
+
+th {
+    padding: 12px;
+    border: 1px solid black;
+    background-color: #A8DFF1;
+    text-align: center;
+}
